@@ -1,0 +1,46 @@
+.background-img {
+    background-image: url('./assets/flag-background.jpg');
+    /* height: 500px; */
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.background-img-blur {
+  background-image: url('./assets/flag-background.jpg');
+  /* height: 500px; */
+  /* Center and scale the image nicely */
+  background-position: bottom;
+  background-repeat: no-repeat;
+  /* background-size: cover; */
+}
+
+.profile-picture {
+  border-radius: 50%;
+  aspect-ratio: 1 / 1;
+  background-position: center;
+  background-size: cover;
+}
+
+.icon-square {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 0.75rem;
+}
+
+.gif-img {
+  border-radius: 10%;
+  box-shadow: 3px 3px 5px black;
+}
+
+.title-text {
+  /* color: aqua; */
+  font-family: 'Caveat', cursive;
+}
+
+.body-text {
+  color: #272829;
+  font-family: 'Raleway', sans-serif;
+  font-size: large;
+}
