@@ -32,6 +32,9 @@
 .gif-img {
   border-radius: 10%;
   box-shadow: 3px 3px 5px black;
+  /* object-fit: cover; */
+  padding: 0px;
+  margin: 0px;
 }
 
 .title-text {
